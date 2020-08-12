@@ -9,6 +9,7 @@ The coding steps for face recognition using OpenCV are same as we discussed it i
 OpenCV comes equipped with built in face recognizer, all you have to do is feed it the face data. It's that simple and this how it will look once we are done coding it.
 
 ## Images
+<img src = https://github.com/Ananth-r17/Face-Recognition/blob/master/download.png> <img src = https://github.com/Ananth-r17/Face-Recognition/blob/master/download%20(1).png>
 
 ## OpenCV Face Recognizers
 
